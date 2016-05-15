@@ -1,11 +1,13 @@
-TemplateProcessingPdAndroid
-===========================
+Musical Suit was a proyect developed in a two weeks residence at Birmingham UK
+http://medialab-prado.es/article/interactivosbirmingham?lang=en
 
-Template to develop Android projects using Processing (with multiTouch) and Puredata (with libPd) in Eclipse
+Project writed based on:
+https://github.com/Javingka/TemplateProcessingPdAndroid
+related to:
+https://musicamovelbahia.wordpress.com/about/ (see arvoritmo)
 
-Este proyecto es una plantilla para el desarrollo de aplicaciones Android en Eclipse, usando Processing y Puredata para el 
-desarrollo de soluciones visuales y sonoras. Incluye una clase para acceder fácil y directamente a información Multitouch y
-otra clase para definir los aspectos necesarios para el uso de Puredata por medio de la libreria libPd, y al mismo tiempo 
-ofrece un set de métodos CallBacks que agiliza y facilita el uso de esta libreria programando con Processing.
+Its about a sensor (gyroscope+accelerometer) connected to an Arduino Nano, which send the data through bluetooth to any Android device with the App and bluetooth activated and connected, to turn the movements into sound responses.
 
-...........EN PROCESO
+It uses Eclipse to create the Android app, uses Processing for the graphics and Puredata for the sounds. but today it should exists more easy ways to do the same. 
+
+Here a video about the project https://www.youtube.com/watch?v=J4iIsDRdgeg
